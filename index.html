@@ -18,17 +18,23 @@
   header p { margin: 0; opacity: .9; font-size: 14px; }
   h2 { color: var(--emerald); margin-top: 32px; font-size: 20px;
     border-bottom: 2px solid var(--gold); padding-bottom: 6px; display: inline-block; }
+  h3 { color: var(--ink); margin: 22px 0 4px; font-size: 16px; }
   a { color: var(--emerald); }
   ul { padding-left: 22px; }
   .card { background: #fff; padding: 4px 24px 20px; border-radius: 16px;
     box-shadow: 0 8px 24px rgba(0,0,0,.05); }
+  .en { background: #fff; padding: 4px 24px 20px; border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.05); margin-top: 24px; }
+  table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14.5px; }
+  th, td { border: 1px solid #e2ded3; padding: 8px 10px; text-align: left; vertical-align: top; }
+  th { background: #f6f3ec; color: var(--emerald); }
   footer { text-align: center; font-size: 13px; color: #6b7672; margin: 28px 0; }
 </style>
 </head>
 <body>
 <header>
   <h1>Kebijakan Privasi</h1>
-  <p>Aplikasi <strong>Dzikir Harianku</strong> · Terakhir diperbarui: 2 Juli 2026</p>
+  <p>Aplikasi <strong>Dzikir Harianku</strong> · Terakhir diperbarui: 25 Juli 2026</p>
 </header>
 
 <div class="card">
@@ -37,63 +43,225 @@
 ("Aplikasi", "kami") menangani informasi Anda. Dengan menggunakan Aplikasi, Anda
 menyetujui praktik yang dijelaskan di bawah ini.</p>
 
-<h2>1. Data yang Kami Kumpulkan</h2>
-<p>Aplikasi ini <strong>tidak meminta, mengumpulkan, atau mengirim data pribadi</strong>
-(seperti nama, email, atau nomor telepon) ke server kami. Kami tidak memiliki server
-yang menyimpan data Anda.</p>
-<p>Data berikut disimpan <strong>hanya di perangkat Anda</strong> dan tidak pernah
-dikirim ke kami:</p>
-<ul>
-  <li>Pengaturan aplikasi (jam pengingat, mode gelap)</li>
-  <li>Data streak dan progres dzikir harian Anda</li>
-</ul>
-<p>Data ini akan terhapus jika Anda menghapus (uninstall) Aplikasi.</p>
+<p><strong>Ringkasnya:</strong> secara bawaan seluruh data ibadah Anda disimpan
+<strong>di perangkat Anda sendiri</strong>. Data baru meninggalkan perangkat hanya
+bila Anda <strong>sendiri mengaktifkan</strong> fitur opsional yang membutuhkan
+akun Google (Backup &amp; Sinkron, Lingkaran Ibadah), atau untuk menayangkan
+iklan.</p>
 
-<h2>2. Iklan (Google AdMob)</h2>
-<p>Aplikasi menampilkan iklan melalui <strong>Google AdMob</strong>. Untuk menyajikan
-iklan, AdMob dapat mengumpulkan dan memproses data tertentu, termasuk
-<strong>identifier perangkat untuk iklan (Advertising ID)</strong> dan data penggunaan,
-sesuai kebijakan Google.</p>
+<h2>1. Data yang Disimpan di Perangkat</h2>
+<p>Data berikut disimpan <strong>hanya di perangkat Anda</strong> dan tidak
+dikirim ke mana pun selama Anda tidak mengaktifkan fitur di Bagian 2:</p>
+<ul>
+  <li>Pengaturan aplikasi (jam pengingat, mode gelap, pilihan adzan, metode
+      perhitungan jadwal sholat)</li>
+  <li>Progres ibadah: streak, ceklis sholat, hitungan dzikir, hafalan, utang
+      qada, program istiqomah</li>
+  <li>Catatan pribadi yang Anda tulis sendiri di Jurnal Muhasabah</li>
+</ul>
+<p>Data ini akan terhapus bila Anda menghapus (uninstall) Aplikasi.</p>
+
+<h2>2. Akun Google &amp; Fitur Cloud (Opsional)</h2>
+<p>Dua fitur berikut <strong>tidak aktif secara bawaan</strong>. Keduanya hanya
+berjalan setelah Anda memilih untuk masuk dengan akun Google Anda. Bila Anda
+tidak pernah masuk, tidak ada data Anda yang tersimpan di server mana pun.</p>
+
+<h3>a. Backup &amp; Sinkron (fitur Pro)</h3>
+<p>Bila Anda mengaktifkannya, <strong>pengaturan dan progres ibadah Anda</strong>
+(daftar di Bagian 1) disalin ke basis data <strong>Google Firebase (Cloud
+Firestore)</strong> di bawah pengenal akun Anda, agar dapat dipulihkan saat Anda
+berganti perangkat. Dari akun Google Anda, kami menerima <strong>alamat email,
+nama tampilan, dan ID akun</strong> melalui Firebase Authentication.</p>
+
+<h3>b. Lingkaran Ibadah</h3>
+<p>Fitur akuntabilitas privat bersama keluarga atau teman. Bila Anda bergabung
+ke sebuah lingkaran, ringkasan singkat berikut dibagikan
+<strong>hanya kepada anggota lain dalam lingkaran itu</strong> (yang memegang
+kode undangannya): <strong>nama tampilan pilihan Anda, jumlah streak, jumlah
+hari aktif pekan ini, status ibadah hari ini, dan nama program yang Anda
+ikuti</strong>. Isi Jurnal Muhasabah, lokasi, dan catatan pribadi Anda
+<strong>tidak pernah</strong> dibagikan.</p>
+
+<p>Untuk kedua fitur di atas: data disimpan di infrastruktur Google Cloud
+(Firebase) dan diamankan dengan aturan akses sehingga hanya Anda — atau anggota
+lingkaran Anda, khusus untuk ringkasan di huruf (b) — yang dapat membacanya.
+Kami <strong>tidak menjual data Anda</strong> dan tidak membagikannya ke
+pengiklan. Anda dapat berhenti kapan saja dengan keluar dari akun di dalam
+Aplikasi, dan dapat meminta penghapusan sesuai Bagian 8.</p>
+
+<h2>3. Iklan (Google AdMob)</h2>
+<p>Versi gratis Aplikasi menampilkan iklan melalui <strong>Google AdMob</strong>.
+Untuk menyajikan iklan, AdMob dapat mengumpulkan dan memproses data tertentu,
+termasuk <strong>identifier perangkat untuk iklan (Advertising ID)</strong>,
+alamat IP, dan data penggunaan, sesuai kebijakan Google.</p>
 <p>Selengkapnya tentang bagaimana Google menggunakan data:
 <a href="https://policies.google.com/technologies/partner-sites" target="_blank">
 https://policies.google.com/technologies/partner-sites</a>.</p>
 <p>Anda dapat mengatur ulang atau membatasi penggunaan Advertising ID melalui
-pengaturan perangkat Android Anda.</p>
+pengaturan perangkat Android Anda. Membeli versi <strong>Pro</strong> akan
+mematikan seluruh iklan.</p>
 
-<h2>3. Notifikasi</h2>
-<p>Aplikasi mengirim notifikasi pengingat dzikir pagi/petang serta pengingat doa
-harian sesuai aktivitas (mis. sebelum tidur, sebelum makan). Notifikasi ini
-dijadwalkan secara lokal di perangkat Anda, tidak melibatkan server kami, dan dapat
-Anda nonaktifkan kapan saja melalui menu Pengaturan di dalam Aplikasi.</p>
+<h3>Izin pengguna di Eropa (GDPR), Inggris Raya, dan Swiss</h3>
+<p>Bila Anda berada di Wilayah Ekonomi Eropa (EEA), Inggris Raya, atau Swiss,
+Aplikasi <strong>meminta izin Anda terlebih dahulu</strong> sebelum memuat iklan,
+melalui platform pengelolaan izin (CMP) Google yang tersertifikasi. Pada dialog
+tersebut Anda dapat:</p>
+<ul>
+  <li><strong>Memberi izin</strong> — iklan dan pengukuran yang dipersonalisasi
+      diizinkan;</li>
+  <li><strong>Mengelola opsi</strong> — memilih tujuan pemrosesan dan mitra satu
+      per satu;</li>
+  <li><strong>Tidak memberi izin</strong> — Anda tetap dapat memakai seluruh
+      fitur Aplikasi, dan iklan yang tampil adalah iklan
+      <strong>non-personalisasi</strong>.</li>
+</ul>
+<p><strong>Mengubah atau mencabut izin kapan saja:</strong> buka
+<em>Setelan → Opsi Privasi Iklan</em> di dalam Aplikasi. Menu ini muncul bagi
+pengguna di wilayah tersebut. Dasar hukum pemrosesan untuk iklan yang
+dipersonalisasi adalah <strong>persetujuan Anda</strong> (Pasal 6(1)(a) GDPR);
+untuk fitur cloud di Bagian 2, dasarnya adalah pelaksanaan layanan yang Anda
+minta. Anda berhak mengakses, memperbaiki, memindahkan, membatasi, menolak, dan
+menghapus data Anda — hubungi kami di Bagian 11, atau lihat Bagian 8.</p>
 
-<h2>4. Lokasi</h2>
+<h2>4. Pembelian dalam Aplikasi</h2>
+<p>Pembelian versi Pro dan sedekah diproses sepenuhnya oleh
+<strong>Google Play Billing</strong>. Kami <strong>tidak pernah menerima maupun
+menyimpan</strong> nomor kartu atau data pembayaran Anda; kami hanya mengetahui
+status "sudah membeli" untuk membuka fitur.</p>
+
+<h2>5. Notifikasi</h2>
+<p>Aplikasi mengirim notifikasi pengingat dzikir pagi/petang, adzan, serta
+pengingat lain sesuai pengaturan Anda. Notifikasi ini dijadwalkan
+<strong>secara lokal di perangkat Anda</strong>, tidak melibatkan server kami,
+dan dapat Anda nonaktifkan kapan saja melalui menu Setelan di dalam Aplikasi.</p>
+
+<h2>6. Lokasi</h2>
 <p>Aplikasi menggunakan lokasi perangkat Anda untuk menghitung <strong>jadwal
 sholat</strong> dan menentukan <strong>arah kiblat</strong> sesuai posisi Anda.
-Data lokasi ini <strong>diproses sepenuhnya di perangkat Anda</strong> secara lokal —
-kami <strong>tidak menyimpan, mengirim, maupun membagikan</strong> lokasi Anda ke
-server kami atau pihak ketiga mana pun.</p>
+Data lokasi ini <strong>diproses sepenuhnya di perangkat Anda</strong> secara
+lokal — kami <strong>tidak menyimpan, mengirim, maupun membagikan</strong>
+lokasi Anda ke server kami. Perlu dicatat bahwa Google AdMob dapat memperkirakan
+lokasi kasar dari alamat IP untuk keperluan iklan, terpisah dari izin lokasi
+perangkat (lihat Bagian 3).</p>
 <p>Anda dapat menolak atau mencabut izin lokasi kapan saja melalui pengaturan
 perangkat Android. Bila izin lokasi tidak diberikan, Anda tetap dapat memakai
 Aplikasi dengan menentukan lokasi secara manual.</p>
 
-<h2>5. Izin yang Digunakan</h2>
+<h2>7. Izin yang Digunakan</h2>
 <ul>
-  <li><strong>Notifikasi</strong> — untuk pengingat dzikir.</li>
+  <li><strong>Notifikasi</strong> — untuk pengingat dzikir, sholat, dan adzan.</li>
   <li><strong>Lokasi</strong> — untuk jadwal sholat &amp; arah kiblat (diproses di perangkat).</li>
-  <li><strong>Internet</strong> — hanya untuk memuat iklan.</li>
+  <li><strong>Alarm presisi</strong> — agar adzan &amp; pengingat berbunyi tepat waktu.</li>
+  <li><strong>Layanan latar depan (pemutaran media)</strong> — agar murottal &amp;
+      audio dzikir tetap berjalan saat layar terkunci.</li>
+  <li><strong>Internet</strong> — memuat iklan, teks/tafsir Al-Qur'an, murottal,
+      serta fitur cloud opsional di Bagian 2.</li>
 </ul>
 
-<h2>6. Privasi Anak</h2>
-<p>Aplikasi ini aman untuk semua umur dan tidak mengumpulkan data pribadi dari anak.</p>
+<h2>8. Menghapus Data Anda</h2>
+<ul>
+  <li><strong>Data di perangkat:</strong> hapus (uninstall) Aplikasi, atau
+      gunakan Setelan perangkat → Aplikasi → Hapus data.</li>
+  <li><strong>Data cloud (bila Anda pernah masuk):</strong> keluar dari akun di
+      <em>Setelan → Backup &amp; Sinkron</em> untuk menghentikan sinkronisasi.
+      Untuk <strong>menghapus permanen</strong> salinan cadangan dan keanggotaan
+      lingkaran Anda, kirim permintaan ke
+      <a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a>
+      dari alamat email akun Google yang Anda pakai. Permintaan diproses dalam
+      <strong>maksimal 30 hari</strong>.</li>
+  <li><strong>Lingkaran yang Anda buat:</strong> pemilik lingkaran dapat
+      menghapusnya langsung dari dalam Aplikasi, yang sekaligus menghapus data
+      seluruh anggotanya di lingkaran tersebut.</li>
+  <li>Anda juga dapat mencabut akses Aplikasi ke akun Google Anda kapan saja di
+      <a href="https://myaccount.google.com/permissions" target="_blank">
+      myaccount.google.com/permissions</a>.</li>
+</ul>
 
-<h2>7. Perubahan Kebijakan</h2>
+<h2>9. Penyimpanan &amp; Keamanan</h2>
+<p>Data cadangan disimpan selama akun Anda masih tersambung, dan dihapus bila
+Anda mengajukan permintaan sesuai Bagian 8. Akses ke data diamankan dengan
+aturan keamanan Firebase; transmisi memakai koneksi terenkripsi (HTTPS).</p>
+
+<h2>10. Privasi Anak</h2>
+<p>Aplikasi ini ditujukan untuk umum dan tidak dirancang untuk mengumpulkan data
+pribadi dari anak di bawah 13 tahun (16 tahun di beberapa negara EEA). Kami
+tidak dengan sengaja mengumpulkan data semacam itu. Bila Anda orang tua/wali dan
+yakin anak Anda telah memberikan data, hubungi kami dan data tersebut akan
+dihapus.</p>
+
+<h2>11. Perubahan Kebijakan</h2>
 <p>Kami dapat memperbarui Kebijakan Privasi ini sewaktu-waktu. Perubahan akan
 ditampilkan pada halaman ini dengan tanggal pembaruan yang baru.</p>
 
-<h2>8. Kontak</h2>
+<h2>12. Kontak</h2>
 <p>Jika ada pertanyaan mengenai Kebijakan Privasi ini, hubungi kami di:<br>
-<strong>Email:</strong> <a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a></p>
+<strong>Email:</strong> <a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a><br>
+<strong>Pengembang:</strong> Mahfudin — Dzikir Harianku</p>
 
+</div>
+
+<div class="en" lang="en">
+<h2>English Summary (EEA, UK &amp; Switzerland)</h2>
+<p>This is a summary of the Indonesian policy above for users in the European
+Economic Area, the United Kingdom, and Switzerland. <strong>Data controller:</strong>
+Mahfudin (Dzikir Harianku) — mahfudinprogrammer@gmail.com.</p>
+
+<h3>What we process</h3>
+<table>
+  <tr><th>Data</th><th>Purpose</th><th>Legal basis</th></tr>
+  <tr>
+    <td>Worship progress, reminders, settings, personal journal — stored
+        <strong>on your device only</strong> by default</td>
+    <td>Providing the app's core features</td>
+    <td>Not transmitted to us; no processing by us</td>
+  </tr>
+  <tr>
+    <td>Google account email, display name, account ID; your settings and
+        worship progress copied to Google Firebase</td>
+    <td><strong>Optional</strong> Backup &amp; Sync (Pro) that you switch on
+        yourself</td>
+    <td>Performance of the service you requested (Art. 6(1)(b))</td>
+  </tr>
+  <tr>
+    <td>Display name, streak count, weekly active days, today's status, program
+        name — shared only with members of your circle</td>
+    <td><strong>Optional</strong> Worship Circle you choose to join</td>
+    <td>Performance of the service you requested (Art. 6(1)(b))</td>
+  </tr>
+  <tr>
+    <td>Advertising ID, IP address, usage data (processed by Google AdMob and
+        its partners)</td>
+    <td>Showing ads in the free version</td>
+    <td><strong>Your consent</strong> (Art. 6(1)(a)), collected via Google's
+        certified consent management platform</td>
+  </tr>
+</table>
+
+<h3>Consent, and how to withdraw it</h3>
+<p>Before any ad is loaded, the app asks for your consent through Google's
+certified CMP. You may consent, manage individual purposes and partners, or
+<strong>refuse</strong> — refusing does not restrict any app feature; you will
+see <strong>non-personalised ads</strong> instead. You can change or withdraw
+your choice at any time in <strong>Settings → Ad Privacy Options</strong> inside
+the app. Buying the Pro version removes ads entirely.</p>
+
+<h3>Your rights</h3>
+<p>You have the right to access, rectify, erase, restrict, port, and object to
+the processing of your personal data, and to lodge a complaint with your local
+supervisory authority. To exercise any of these, email
+<a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a>
+from the address of the Google account you used. Requests are handled within
+<strong>30 days</strong>. See section 8 above for the self-service deletion
+options (uninstalling the app, signing out, deleting a circle, or revoking the
+app's access at
+<a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a>).</p>
+
+<h3>Location &amp; children</h3>
+<p>Device location is used <strong>on-device only</strong> to compute prayer
+times and the qibla direction; we never receive it. AdMob may infer coarse
+location from your IP address for advertising. The app is not directed at
+children under 13 (16 in some EEA countries) and we do not knowingly collect
+their data.</p>
 </div>
 
 <footer>© 2026 Mahfudin — Dzikir Harianku</footer>
