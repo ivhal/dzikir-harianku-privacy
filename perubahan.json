@@ -1,0 +1,31 @@
+{
+  "_catatan": "Diterbitkan ke GitHub Pages. App MENGAMBIL berkas ini untuk memberi tahu APA yang berubah — Play In-App Updates tidak menyediakan catatan rilis. Kunci = versionCode. App mengambil SATU entri saja: yang cocok dengan availableVersionCode dari Play (versi yang akan dipasang). Entri lain diabaikan. Kunci tak ditemukan / berkas tak terambil = dialog tetap tampil TANPA daftar, tombol Perbarui tetap aktif.",
+  "versi": {
+    "44": {
+      "nama": "2.25.0",
+      "sorot": "Mushaf 15 baris",
+      "perubahan": [
+        {
+          "ikon": "mushaf",
+          "judul": "Mushaf tata letak cetak",
+          "isi": "604 halaman, 15 baris — halaman & barisnya sama dengan mushaf yang biasa dipakai menghafal."
+        },
+        {
+          "ikon": "renungan",
+          "judul": "Tanya Hati di Kata Bijak",
+          "isi": "Satu pertanyaan, jeda sejenak, lalu renungannya terbuka. 70 butir, 7 tema."
+        },
+        {
+          "ikon": "penanda",
+          "judul": "Penanda sampai ayat",
+          "isi": "\"Lanjutkan Membaca\" kini mengingat sampai AYAT mana, bukan cuma halaman."
+        },
+        {
+          "ikon": "perbaikan",
+          "judul": "Jadwal sholat ikut saat bepergian",
+          "isi": "Pindah kota kini terdeteksi sendiri — jadwal & adzan menyesuaikan lokasimu."
+        }
+      ]
+    }
+  }
+}

@@ -34,7 +34,7 @@
 <body>
 <header>
   <h1>Kebijakan Privasi</h1>
-  <p>Aplikasi <strong>Dzikir Harianku</strong> · Terakhir diperbarui: 25 Juli 2026</p>
+  <p>Aplikasi <strong>Dzikir Harianku</strong> · Terakhir diperbarui: 25 Juli 2026 (rev. 3)</p>
 </header>
 
 <div class="card">
@@ -68,8 +68,8 @@ tidak pernah masuk, tidak ada data Anda yang tersimpan di server mana pun.</p>
 
 <h3>a. Backup &amp; Sinkron (fitur Pro)</h3>
 <p>Bila Anda mengaktifkannya, <strong>pengaturan dan progres ibadah Anda</strong>
-(daftar di Bagian 1) disalin ke basis data <strong>Google Firebase (Cloud
-Firestore)</strong> di bawah pengenal akun Anda, agar dapat dipulihkan saat Anda
+(daftar di Bagian 1, termasuk koordinat lokasi yang tersimpan) disalin ke basis
+data <strong>Google Firebase (Cloud Firestore)</strong> di bawah pengenal akun Anda, agar dapat dipulihkan saat Anda
 berganti perangkat. Dari akun Google Anda, kami menerima <strong>alamat email,
 nama tampilan, dan ID akun</strong> melalui Firebase Authentication.</p>
 
@@ -138,11 +138,19 @@ dan dapat Anda nonaktifkan kapan saja melalui menu Setelan di dalam Aplikasi.</p
 <h2>6. Lokasi</h2>
 <p>Aplikasi menggunakan lokasi perangkat Anda untuk menghitung <strong>jadwal
 sholat</strong> dan menentukan <strong>arah kiblat</strong> sesuai posisi Anda.
-Data lokasi ini <strong>diproses sepenuhnya di perangkat Anda</strong> secara
-lokal — kami <strong>tidak menyimpan, mengirim, maupun membagikan</strong>
-lokasi Anda ke server kami. Perlu dicatat bahwa Google AdMob dapat memperkirakan
-lokasi kasar dari alamat IP untuk keperluan iklan, terpisah dari izin lokasi
-perangkat (lihat Bagian 3).</p>
+Perhitungannya dilakukan <strong>di perangkat Anda</strong>, dan koordinat
+terakhir disimpan di perangkat agar jadwal tetap tampil tanpa mengambil lokasi
+berulang kali.</p>
+<p><strong>Pengecualian yang perlu Anda ketahui:</strong> bila Anda mengaktifkan
+<strong>Backup &amp; Sinkron</strong> (Bagian 2a), koordinat yang tersimpan itu
+<strong>ikut tersalin</strong> ke cadangan Anda di Google Firebase bersama
+pengaturan lain — sehingga jadwal sholat langsung benar saat Anda berganti
+perangkat. Data tersebut hanya dapat dibaca oleh akun Anda sendiri, tidak
+dibagikan kepada pihak ketiga, dan tidak ikut dikirim ke Lingkaran Ibadah. Bila
+Anda tidak mengaktifkan Backup &amp; Sinkron, koordinat Anda tidak pernah
+meninggalkan perangkat.</p>
+<p>Perlu dicatat bahwa Google AdMob dapat memperkirakan lokasi kasar dari alamat
+IP untuk keperluan iklan, terpisah dari izin lokasi perangkat (lihat Bagian 3).</p>
 <p>Anda dapat menolak atau mencabut izin lokasi kapan saja melalui pengaturan
 perangkat Android. Bila izin lokasi tidak diberikan, Anda tetap dapat memakai
 Aplikasi dengan menentukan lokasi secara manual.</p>
@@ -160,12 +168,18 @@ Aplikasi dengan menentukan lokasi secara manual.</p>
 
 <h2>8. Menghapus Data Anda</h2>
 <ul>
-  <li><strong>Data di perangkat:</strong> hapus (uninstall) Aplikasi, atau
-      gunakan Setelan perangkat → Aplikasi → Hapus data.</li>
-  <li><strong>Data cloud (bila Anda pernah masuk):</strong> keluar dari akun di
-      <em>Setelan → Backup &amp; Sinkron</em> untuk menghentikan sinkronisasi.
-      Untuk <strong>menghapus permanen</strong> salinan cadangan dan keanggotaan
-      lingkaran Anda, kirim permintaan ke
+  <li><strong>Cara tercepat — di dalam Aplikasi:</strong> buka
+      <em>Setelan → Hapus Akun &amp; Data</em>, lalu ketik <strong>HAPUS</strong>
+      untuk mengonfirmasi. Sekali jalan ini menghapus <strong>permanen dan
+      seketika</strong>: akun Google yang tersambung, cadangan Anda di cloud,
+      keanggotaan (atau lingkaran yang Anda buat) di Lingkaran Ibadah, serta
+      seluruh data di perangkat termasuk murottal yang sudah diunduh. Bila Anda
+      belum pernah masuk, menu ini bernama <em>Hapus Semua Data</em> dan
+      membersihkan perangkat Anda.</li>
+  <li><strong>Alternatif untuk data di perangkat:</strong> hapus (uninstall)
+      Aplikasi, atau gunakan Setelan perangkat → Aplikasi → Hapus data.</li>
+  <li><strong>Lewat email:</strong> bila Anda tak lagi memegang perangkatnya,
+      kirim permintaan ke
       <a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a>
       dari alamat email akun Google yang Anda pakai. Permintaan diproses dalam
       <strong>maksimal 30 hari</strong>.</li>
@@ -251,15 +265,20 @@ the processing of your personal data, and to lodge a complaint with your local
 supervisory authority. To exercise any of these, email
 <a href="mailto:mahfudinprogrammer@gmail.com">mahfudinprogrammer@gmail.com</a>
 from the address of the Google account you used. Requests are handled within
-<strong>30 days</strong>. See section 8 above for the self-service deletion
-options (uninstalling the app, signing out, deleting a circle, or revoking the
-app's access at
+<strong>30 days</strong>. The fastest route is in-app:
+<strong>Settings → Delete Account &amp; Data</strong>, which permanently erases
+your account, cloud backup, circle membership, and all on-device data in one
+step. See section 8 above for the other options (uninstalling the app, signing
+out, deleting a circle, or revoking the app's access at
 <a href="https://myaccount.google.com/permissions" target="_blank">myaccount.google.com/permissions</a>).</p>
 
 <h3>Location &amp; children</h3>
-<p>Device location is used <strong>on-device only</strong> to compute prayer
-times and the qibla direction; we never receive it. AdMob may infer coarse
-location from your IP address for advertising. The app is not directed at
+<p>Device location is used to compute prayer times and the qibla direction, and
+the last coordinates are stored on your device. <strong>If — and only if — you
+enable Backup &amp; Sync</strong>, those coordinates are included in your backup
+on Google Firebase, readable only by your own account and never shared with
+third parties or your circle. AdMob may separately infer coarse location from
+your IP address for advertising. The app is not directed at
 children under 13 (16 in some EEA countries) and we do not knowingly collect
 their data.</p>
 </div>
