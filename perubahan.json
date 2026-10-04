@@ -1,31 +1,294 @@
 {
-  "_catatan": "Diterbitkan ke GitHub Pages. App MENGAMBIL berkas ini untuk memberi tahu APA yang berubah — Play In-App Updates tidak menyediakan catatan rilis. Kunci = versionCode. App mengambil SATU entri saja: yang cocok dengan availableVersionCode dari Play (versi yang akan dipasang). Entri lain diabaikan. Kunci tak ditemukan / berkas tak terambil = dialog tetap tampil TANPA daftar, tombol Perbarui tetap aktif.",
-  "versi": {
-    "44": {
-      "nama": "2.25.0",
-      "sorot": "Mushaf 15 baris",
-      "perubahan": [
-        {
-          "ikon": "mushaf",
-          "judul": "Mushaf tata letak cetak",
-          "isi": "604 halaman, 15 baris — halaman & barisnya sama dengan mushaf yang biasa dipakai menghafal."
-        },
-        {
-          "ikon": "renungan",
-          "judul": "Tanya Hati di Kata Bijak",
-          "isi": "Satu pertanyaan, jeda sejenak, lalu renungannya terbuka. 70 butir, 7 tema."
-        },
-        {
-          "ikon": "penanda",
-          "judul": "Penanda sampai ayat",
-          "isi": "\"Lanjutkan Membaca\" kini mengingat sampai AYAT mana, bukan cuma halaman."
-        },
-        {
-          "ikon": "perbaikan",
-          "judul": "Jadwal sholat ikut saat bepergian",
-          "isi": "Pindah kota kini terdeteksi sendiri — jadwal & adzan menyesuaikan lokasimu."
-        }
-      ]
+ "_catatan": "Diterbitkan ke GitHub Pages. App MENGAMBIL berkas ini untuk memberi tahu APA yang berubah — Play In-App Updates tidak menyediakan catatan rilis. Kunci = versionCode. App mengambil SATU entri saja: yang cocok dengan availableVersionCode dari Play (versi yang akan dipasang). Entri lain diabaikan. Kunci tak ditemukan / berkas tak terambil = dialog tetap tampil TANPA daftar, tombol Perbarui tetap aktif.",
+ "versi": {
+  "46": {
+   "nama": "2.27.0",
+   "sorot": "Bagikan jadi Video",
+   "perubahan": [
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan jadi Video",
+     "isi": "Doa, dzikir, Kata Bijak, Tanya Hati, Tajwid, dan Rapor kini bisa dibagikan sebagai video tegak siap unggah ke Shorts, Reels, atau Status — teksnya muncul bertahap, tanpa perlu aplikasi lain."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Mushaf 15 baris",
+     "isi": "604 halaman dengan halaman & baris sama seperti mushaf cetak yang biasa dipakai menghafal. Saat diperbesar, tampilan kini berlabuh di AWAL baris — tak ada lagi awal ayat yang terpotong."
+    },
+    {
+     "ikon": "tajwid",
+     "judul": "Belajar Tajwid",
+     "isi": "17 bab, 80 hukum — dari makhraj sampai bacaan gharib, dengan contoh ayat asli yang bisa didengarkan dan HURUF yang terkena hukum disorot. Pintunya ada di tab Al-Qur'an."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Koleksi doa jauh lebih lengkap",
+     "isi": "298 doa tertata dalam 15 kategori, dan \"Lanjutkan Membaca\" kini mengingat sampai AYAT mana kamu berhenti."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Perbaikan & penyegaran",
+     "isi": "Beranda ditata ulang jadi satu layar, Tanya Hati (70 renungan) hadir di Kata Bijak, tema kartu berbagi diperbarui, dan jadwal sholat kini ikut menyesuaikan saat kamu bepergian."
     }
+   ]
+  },
+  "44": {
+   "nama": "2.25.0",
+   "sorot": "Belajar Tajwid",
+   "perubahan": [
+    {
+     "ikon": "tajwid",
+     "judul": "Belajar Tajwid",
+     "isi": "17 bab, 80 hukum — dari makhraj sampai bacaan gharib, lengkap dengan contoh ayat asli yang bisa didengarkan. Materinya gratis seluruhnya, dan tiap bab bisa dibagikan sebagai kartu contekan."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Mushaf tata letak cetak",
+     "isi": "604 halaman, 15 baris — halaman & barisnya sama dengan mushaf yang biasa dipakai menghafal."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Tanya Hati di Kata Bijak",
+     "isi": "Satu pertanyaan, jeda sejenak, lalu renungannya terbuka. 70 butir, 7 tema."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Penanda sampai ayat",
+     "isi": "\"Lanjutkan Membaca\" kini mengingat sampai AYAT mana, bukan cuma halaman."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Jadwal sholat ikut saat bepergian",
+     "isi": "Pindah kota kini terdeteksi sendiri — jadwal & adzan menyesuaikan lokasimu."
+    }
+   ]
+  },
+  "47": {
+   "nama": "2.27.1",
+   "sorot": "Ayat tak terpotong & Bagikan Video selalu selesai",
+   "perubahan": [
+    {
+     "ikon": "mushaf",
+     "judul": "Ayat mushaf tak lagi terpotong",
+     "isi": "Harakat pada seluruh teks Arab kini duduk rapat pada hurufnya. Sebelumnya ada jarak halus antar-huruf yang membuat baris jadi lebih lebar dari halaman, sehingga tepi ayat bisa terpangkas — paling terasa di halaman 2 Al-Baqarah."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, \"Membuat video\" bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup — jadi tak ada lagi menunggu tanpa jawaban."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Perbaikan kecil",
+     "isi": "Teks Arab di layar dzikir, tasbih, koleksi doa, dan kartu berbagi ikut dirapikan dengan perbaikan yang sama."
+    }
+   ]
+  },
+  "48": {
+   "nama": "2.28.0",
+   "sorot": "Ayat utuh, mushaf bisa gelap, Bagikan Video selalu selesai",
+   "perubahan": [
+    {
+     "ikon": "mushaf",
+     "judul": "Ayat mushaf tak lagi terpotong",
+     "isi": "Harakat pada seluruh teks Arab kini duduk rapat pada hurufnya. Sebelumnya ada jarak halus antar-huruf yang membuat baris jadi lebih lebar dari halaman, sehingga tepi ayat bisa terpangkas — paling terasa di halaman 2 Al-Baqarah."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, \"Membuat video\" bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Perbaikan kecil",
+     "isi": "Teks Arab di layar dzikir, tasbih, koleksi doa, dan kartu berbagi ikut dirapikan dengan perbaikan yang sama."
+    }
+   ]
+  },
+  "49": {
+   "nama": "2.28.1",
+   "sorot": "Teks Al-Qur'an di Mushaf diperbaiki menyeluruh",
+   "perubahan": [
+    {
+     "ikon": "mushaf",
+     "judul": "Teks Mushaf diperbaiki menyeluruh",
+     "isi": "Sebagian harakat di Mushaf sebelumnya tidak tepat atau tidak terlihat — pada Al-Baqarah ayat 4, “unzila” bisa terbaca “anzila”. Mushaf kini memakai teks yang sama dengan layar Al-Qur'an, termasuk tanwin dan tanda panjang yang sebelumnya hilang, sehingga bacaannya tak lagi berbeda antar-layar."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Ayat mushaf tak lagi terpotong",
+     "isi": "Harakat pada seluruh teks Arab kini duduk rapat pada hurufnya. Sebelumnya ada jarak halus antar-huruf yang membuat baris lebih lebar dari halaman, sehingga tepi ayat bisa terpangkas — paling terasa di halaman 2 Al-Baqarah."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, “Membuat video” bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Perbaikan kecil",
+     "isi": "Teks Arab di layar dzikir, tasbih, koleksi doa, dan kartu berbagi ikut dirapikan dengan perbaikan yang sama."
+    }
+   ]
+  },
+  "50": {
+   "nama": "2.29.0",
+   "sorot": "Ratib Al-Haddad & Ratib Al-Attas",
+   "perubahan": [
+    {
+     "ikon": "ratib",
+     "judul": "Ratib Al-Haddad & Ratib Al-Attas",
+     "isi": "Dua wirid yang biasa dibaca setelah Isya kini ada di tab Dzikir — lengkap Arab, latin, dan artinya, dengan penghitung tiap bacaan dan Sesi Terpandu. Teksnya dari NU Online, ayatnya dari Al-Qur'an Kemenag."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Teks Mushaf diperbaiki menyeluruh",
+     "isi": "Sebagian harakat di Mushaf sebelumnya tidak tepat atau tidak terlihat — pada Al-Baqarah ayat 4, “unzila” bisa terbaca “anzila”. Mushaf kini memakai teks yang sama dengan layar Al-Qur'an, termasuk tanwin dan tanda panjang yang sebelumnya hilang, sehingga bacaannya tak lagi berbeda antar-layar."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Doa Nurbuat & Ayat Seribu Dinar",
+     "isi": "Kini ada di Doa Harian, lengkap dengan penjelasan jujur tentang asal-usulnya. Cari saja “nurbuat” atau “dinar”."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, “Membuat video” bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    },
+    {
+     "ikon": "perbaikan",
+     "judul": "Perbaikan kecil",
+     "isi": "Ayat mushaf tak lagi terpotong di tepi halaman, harakat seluruh teks Arab duduk rapat pada hurufnya, doa yang difavoritkan dari “Doa dalam Al-Qur’an” maupun Sholawat kini muncul di Favorit, dan jam serta baterai di bilah paling atas kini terlihat jelas di layar terang."
+    }
+   ]
+  },
+  "51": {
+   "nama": "2.30.0",
+   "sorot": "Animasi Kisah",
+   "perubahan": [
+    {
+     "ikon": "renungan",
+     "judul": "Animasi Kisah",
+     "isi": "Video kartun pendek tentang kisah dan dalil di balik doa, siap dibagikan ke TikTok, Reels, YouTube Shorts, atau Status WhatsApp — lengkap dengan rekomendasi judul dan tagar yang tinggal disalin. Buka doa → Bagikan → “Bagikan Animasi Kisah”. Video lengkap khusus Pro; pratinjau untuk semua."
+    },
+    {
+     "ikon": "ratib",
+     "judul": "Ratib Al-Haddad & Ratib Al-Attas",
+     "isi": "Dua wirid yang biasa dibaca setelah Isya kini ada di tab Dzikir — lengkap Arab, latin, dan artinya, dengan penghitung tiap bacaan dan Sesi Terpandu. Teksnya dari NU Online, ayatnya dari Al-Qur'an Kemenag."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Teks Mushaf diperbaiki menyeluruh",
+     "isi": "Sebagian harakat di Mushaf sebelumnya tidak tepat atau tidak terlihat — pada Al-Baqarah ayat 4, “unzila” bisa terbaca “anzila”. Mushaf kini memakai teks yang sama dengan layar Al-Qur'an, termasuk tanwin dan tanda panjang yang sebelumnya hilang, sehingga bacaannya tak lagi berbeda antar-layar."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Doa Nurbuat & Ayat Seribu Dinar",
+     "isi": "Kini ada di Doa Harian, lengkap dengan penjelasan jujur tentang asal-usulnya. Cari saja “nurbuat” atau “dinar”."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, “Membuat video” bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    }
+   ]
+  },
+  "52": {
+   "nama": "2.30.0",
+   "sorot": "Bagikan Animasi",
+   "perubahan": [
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Animasi",
+     "isi": "Doa, dzikir, ayat, Kata Bijak, Tanya Hati, Tajwid, dan Rapor kini bisa dijadikan video animasi kartun — maskot Si Bulan, teks yang muncul kata demi kata, dan efek suara — siap dibagikan ke TikTok, Reels, YouTube Shorts, atau Status WhatsApp, lengkap dengan rekomendasi judul dan tagar. Ketuk Bagikan → “Bagikan Animasi”. Animasi lengkap khusus Pro; pratinjau untuk semua."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Animasi Kisah",
+     "isi": "Sebagian doa punya video garapan yang bercerita tentang kisah dan dalil di baliknya, lengkap dengan suara. Episode baru ditambahkan tanpa perlu memperbarui aplikasi."
+    },
+    {
+     "ikon": "ratib",
+     "judul": "Ratib Al-Haddad & Ratib Al-Attas",
+     "isi": "Dua wirid yang biasa dibaca setelah Isya kini ada di tab Dzikir — lengkap Arab, latin, dan artinya, dengan penghitung tiap bacaan dan Sesi Terpandu. Teksnya dari NU Online, ayatnya dari Al-Qur'an Kemenag."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Teks Mushaf diperbaiki menyeluruh",
+     "isi": "Sebagian harakat di Mushaf sebelumnya tidak tepat atau tidak terlihat — pada Al-Baqarah ayat 4, “unzila” bisa terbaca “anzila”. Mushaf kini memakai teks yang sama dengan layar Al-Qur'an, termasuk tanwin dan tanda panjang yang sebelumnya hilang, sehingga bacaannya tak lagi berbeda antar-layar."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Doa Nurbuat & Ayat Seribu Dinar",
+     "isi": "Kini ada di Doa Harian, lengkap dengan penjelasan jujur tentang asal-usulnya. Cari saja “nurbuat” atau “dinar”."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, “Membuat video” bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    }
+   ]
+  },
+  "53": {
+   "nama": "2.31.0",
+   "sorot": "Animasi Kisah",
+   "perubahan": [
+    {
+     "ikon": "renungan",
+     "judul": "Animasi Kisah",
+     "isi": "Sebagian doa harian kini punya video kartun bercerita — Raka, Nisa, dan Si Bulan — lengkap dengan suara, dalil, serta rekomendasi judul dan tagar, siap dibagikan ke TikTok, Reels, YouTube Shorts, atau Status WhatsApp. Ketuk Bagikan, lalu “Bagikan Animasi” (muncul pada doa yang sudah punya kisahnya). Video lengkap khusus Pro; pratinjau untuk semua. Episode baru ditambahkan tanpa perlu memperbarui aplikasi."
+    },
+    {
+     "ikon": "ratib",
+     "judul": "Ratib Al-Haddad & Ratib Al-Attas",
+     "isi": "Dua wirid yang biasa dibaca setelah Isya kini ada di tab Dzikir — lengkap Arab, latin, dan artinya, dengan penghitung tiap bacaan dan Sesi Terpandu. Teksnya dari NU Online, ayatnya dari Al-Qur'an Kemenag."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Teks Mushaf diperbaiki menyeluruh",
+     "isi": "Sebagian harakat di Mushaf sebelumnya tidak tepat atau tidak terlihat — pada Al-Baqarah ayat 4, “unzila” bisa terbaca “anzila”. Mushaf kini memakai teks yang sama dengan layar Al-Qur'an, termasuk tanwin dan tanda panjang yang sebelumnya hilang, sehingga bacaannya tak lagi berbeda antar-layar."
+    },
+    {
+     "ikon": "penanda",
+     "judul": "Doa Nurbuat & Ayat Seribu Dinar",
+     "isi": "Kini ada di Doa Harian, lengkap dengan penjelasan jujur tentang asal-usulnya. Cari saja “nurbuat” atau “dinar”."
+    },
+    {
+     "ikon": "mushaf",
+     "judul": "Layar gelap khusus Mushaf",
+     "isi": "Mushaf kini punya setelan latarnya sendiri: ikut tema aplikasi, kertas terang, atau layar gelap. Ada tombol cepat di Mushaf untuk berganti sekali ketuk saat lampu kamar dimatikan."
+    },
+    {
+     "ikon": "renungan",
+     "judul": "Bagikan Video selalu selesai",
+     "isi": "Di sebagian ponsel, “Membuat video” bisa berhenti tanpa akhir. Kini ada perekam cadangan bila perekam utama ponsel menolak, batas waktu, tombol Batal, dan pesan yang jelas bila perangkat memang tak sanggup."
+    }
+   ]
   }
+ }
 }

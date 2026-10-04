@@ -1,0 +1,138 @@
+{
+ "_catatan": "Dibuat terbit.py (skill video-animasi-kartun). Diunggah ke hosting statis; dibaca app.",
+ "versi_skema": 1,
+ "video": [
+  {
+   "kunci": "لحمدللهلذيحينبعدممتنوليهلنشور",
+   "judul": "Doa Bangun Tidur",
+   "varian": "A",
+   "detik": 81,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/02-bangun-tidur_v2.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/02-bangun-tidur_v2_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/02-bangun-tidur_v2.jpg",
+   "judul_saran": "Bangun tidur langsung pegang HP? 📱 Baca ini dulu (HR. Bukhari no. 6312)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doabanguntidur",
+    "#bangunpagi",
+    "#subuh",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 2,
+   "mb": 17.5
+  },
+  {
+   "kunci": "بسمللهتوكلتعليللهولحولولقوةلبلله",
+   "judul": "Doa Keluar Rumah",
+   "varian": "A",
+   "detik": 63,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/04-keluar-rumah_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/04-keluar-rumah_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/04-keluar-rumah_v1.jpg",
+   "judul_saran": "Keluar rumah langsung ngacir? 🏃 Jangan lupa bekal ini (HR. Abu Dawud, Tirmidzi)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doakeluarrumah",
+    "#tawakal",
+    "#berangkatsekolah",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 16.7
+  },
+  {
+   "kunci": "بسمللهولجنوبسمللهخرجنوعليربنتوكلن",
+   "judul": "Doa Masuk Rumah",
+   "varian": "A",
+   "detik": 79,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/07-masuk-rumah_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/07-masuk-rumah_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/07-masuk-rumah_v1.jpg",
+   "judul_saran": "Pulang sekolah langsung nyelonong masuk? 🏠 Baca ini, setan nggak bisa ikut menginap (HR. Muslim no. 2018)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doamasukrumah",
+    "#adabmasukrumah",
+    "#anakmuslim",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 15.5
+  },
+  {
+   "kunci": "بسملله",
+   "judul": "Doa Sebelum Makan",
+   "varian": "A",
+   "detik": 66,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/03-sebelum-makan_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/03-sebelum-makan_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/03-sebelum-makan_v1.jpg",
+   "judul_saran": "Lapar langsung sikat? 🍗 Baca ini dulu biar BERKAH (HR. Abu Dawud, Tirmidzi)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doasebelummakan",
+    "#bismillah",
+    "#adabmakan",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 18.8
+  },
+  {
+   "kunci": "بسمكللهمموتوحي",
+   "judul": "Doa Sebelum Tidur",
+   "varian": "A",
+   "detik": 71,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/05-sebelum-tidur_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/05-sebelum-tidur_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/05-sebelum-tidur_v1.jpg",
+   "judul_saran": "Mau tidur langsung merem? 😴 Baca ini dulu (HR. Bukhari no. 6324)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doasebelumtidur",
+    "#adabtidur",
+    "#anakmuslim",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 16.2
+  },
+  {
+   "kunci": "لحمدللهلذيطعمنيهذورزقنيهمنغيرحولمنيولقوة",
+   "judul": "Doa Sesudah Makan",
+   "varian": "A",
+   "detik": 69,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/06-sesudah-makan_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/06-sesudah-makan_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/06-sesudah-makan_v1.jpg",
+   "judul_saran": "Habis makan langsung kabur main? 🍽️ Ini kalimat yang bikin Allah ridha (HR. Muslim no. 2734)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doasesudahmakan",
+    "#adabmakan",
+    "#anakmuslim",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 18.8
+  }
+ ]
+}
