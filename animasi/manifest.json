@@ -22,7 +22,8 @@
     "#dzikirharianku"
    ],
    "versi": 3,
-   "mb": 17.5
+   "mb": 17.5,
+   "sidik": "e5390210928b94e3"
   },
   {
    "kunci": "لحمدللهلذيكسنيهذلثوبورزقنيهمنغيرحولمنيولقوة",
@@ -44,7 +45,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 15.7
+   "mb": 15.7,
+   "sidik": "0f23cfdccdb5b4dd"
   },
   {
    "kunci": "غفرنك",
@@ -66,7 +68,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 12.9
+   "mb": 12.9,
+   "sidik": "fff09ea6f099f85d"
   },
   {
    "kunci": "للهمنيسلكمنفضلك",
@@ -88,7 +91,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 13.2
+   "mb": 13.2,
+   "sidik": "df4e1c24104277bb"
   },
   {
    "kunci": "بسمللهتوكلتعليللهولحولولقوةلبلله",
@@ -110,7 +114,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 16.7
+   "mb": 16.7,
+   "sidik": "8574e757751e67a8"
   },
   {
    "kunci": "للهمكمحسنتخلقيفحسنخلقي",
@@ -132,7 +137,8 @@
     "#dzikirharianku"
    ],
    "versi": 1,
-   "mb": 16.4
+   "mb": 16.4,
+   "sidik": "b3500361628541c6"
   },
   {
    "kunci": "لحمدلله",
@@ -154,7 +160,8 @@
     "#dzikirharianku"
    ],
    "versi": 1,
-   "mb": 14.5
+   "mb": 14.5,
+   "sidik": "83db271ab6c909cd"
   },
   {
    "kunci": "عوذبللهمنلشيطنلرجيم",
@@ -176,7 +183,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 18.1
+   "mb": 18.1,
+   "sidik": "51e770d606c0e2aa"
   },
   {
    "kunci": "للهمصيبنفع",
@@ -198,7 +206,8 @@
     "#dzikirharianku"
    ],
    "versi": 1,
-   "mb": 18.0
+   "mb": 18.0,
+   "sidik": "9e5e6b4ea63586a6"
   },
   {
    "kunci": "للهمنيعوذبكمنلخبثولخبئث",
@@ -220,7 +229,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 12.8
+   "mb": 12.8,
+   "sidik": "ceb4c088ee2f0aa1"
   },
   {
    "kunci": "للهمفتحليبوبرحمتك",
@@ -242,7 +252,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 14.3
+   "mb": 14.3,
+   "sidik": "9aad52d09bc9687c"
   },
   {
    "kunci": "بسمللهولجنوبسمللهخرجنوعليربنتوكلن",
@@ -264,7 +275,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 15.5
+   "mb": 15.5,
+   "sidik": "aed780516e6dccdf"
   },
   {
    "kunci": "بسملله",
@@ -286,7 +298,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 18.9
+   "mb": 18.9,
+   "sidik": "1d91d16a3f9f0085"
   },
   {
    "kunci": "بسمكللهمموتوحي",
@@ -308,7 +321,8 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 16.5
+   "mb": 16.5,
+   "sidik": "a2e91aea149d5785"
   },
   {
    "kunci": "لحمدللهلذيطعمنيهذورزقنيهمنغيرحولمنيولقوة",
@@ -330,7 +344,31 @@
     "#dzikirharianku"
    ],
    "versi": 2,
-   "mb": 18.8
+   "mb": 18.8,
+   "sidik": "50f4a3011ce2da07"
+  },
+  {
+   "kunci": "مطرنبفضلللهورحمته",
+   "judul": "Doa Setelah Turun Hujan",
+   "varian": "A",
+   "detik": 64,
+   "video": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/16-setelah-hujan_v1.mp4",
+   "pratinjau": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/16-setelah-hujan_v1_pratinjau.mp4",
+   "sampul": "https://ivhal.github.io/dzikir-harianku-privacy/animasi/16-setelah-hujan_v1.jpg",
+   "judul_saran": "Hujan reda langsung ciprat-cipratan? 🌦️ Ada kalimat syukur sesudah hujan (HR. Bukhari no. 846, Muslim no. 71)",
+   "tagar": [
+    "#doaharian",
+    "#kisahdoa",
+    "#doasetelahhujan",
+    "#syukur",
+    "#anakmuslim",
+    "#animasi",
+    "#edukasiislam",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 16.0,
+   "sidik": "8a5c8efab5920dee"
   }
  ]
 }
