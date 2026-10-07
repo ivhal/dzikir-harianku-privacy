@@ -305,47 +305,41 @@
    "kunci": "عوذبللهمنلشيطنلرجيم",
    "judul": "Doa Ketika Marah",
    "varian": "A",
-   "detik": 70,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v2/01-ketika-marah_v2.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v2/01-ketika-marah_v2_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v2/01-ketika-marah_v2.jpg",
-   "judul_saran": "Lagi kesal langsung membentak? 😤 Baca kalimat ini supaya marah padam (HR. Bukhari no. 3282, Muslim no. 2610)",
+   "detik": 44,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v3/01-ketika-marah_v3.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v3/01-ketika-marah_v3_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v3/01-ketika-marah_v3.jpg",
+   "judul_saran": "Anak marah, langsung membentak? 😤 Ajarkan kalimat dari Nabi ini (HR. Bukhari no. 3282, Muslim no. 2610)",
    "tagar": [
-    "#doaharian",
-    "#kisahdoa",
     "#doaketikamarah",
-    "#menahanmarah",
+    "#doaanak",
     "#anakmuslim",
-    "#animasi",
-    "#edukasiislam",
+    "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 2,
-   "mb": 18.1,
-   "sidik": "51e770d606c0e2aa"
+   "versi": 3,
+   "mb": 13.0,
+   "sidik": "04f3ed445edd5313"
   },
   {
    "kunci": "عوذبللهوقدرتهمنشرمجدوحذر",
    "judul": "Doa Ketika Merasakan Sakit",
    "varian": "A",
-   "detik": 69,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v3/21-ketika-sakit_v3.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v3/21-ketika-sakit_v3_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v3/21-ketika-sakit_v3.jpg",
-   "judul_saran": "Jatuh, langsung nangis kencang? 🤕 Nabi mengajarkan kalimat untuk rasa sakit (HR. Muslim no. 2202)",
+   "detik": 43,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v4/21-ketika-sakit_v4.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v4/21-ketika-sakit_v4_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-21-ketika-sakit_v4/21-ketika-sakit_v4.jpg",
+   "judul_saran": "Anak jatuh, langsung nangis? 🤕 Ajarkan kalimat dari Nabi ini (HR. Muslim no. 2202)",
    "tagar": [
     "#doaharian",
-    "#kisahdoa",
-    "#doaketikasakit",
-    "#anakpemberani",
+    "#doaanak",
     "#anakmuslim",
-    "#animasi",
-    "#edukasiislam",
+    "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 3,
-   "mb": 15.8,
-   "sidik": "8270cf2162bc43ff"
+   "versi": 4,
+   "mb": 11.4,
+   "sidik": "f79e3aaca0d63f0f"
   },
   {
    "kunci": "للهمصيبنفع",
@@ -467,9 +461,9 @@
    "judul": "Doa Menjenguk Orang Sakit",
    "varian": "A",
    "detik": 66,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v2/17-jenguk-sakit_v2.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v2/17-jenguk-sakit_v2_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v2/17-jenguk-sakit_v2.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v3/17-jenguk-sakit_v3.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v3/17-jenguk-sakit_v3_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-17-jenguk-sakit_v3/17-jenguk-sakit_v3.jpg",
    "judul_saran": "Teman sakit, cuma bilang \"cepat sembuh\"? 🤒 Ada kalimat dari Nabi yang lebih indah (HR. Bukhari no. 3616)",
    "tagar": [
     "#doaharian",
@@ -481,9 +475,9 @@
     "#edukasiislam",
     "#dzikirharianku"
    ],
-   "versi": 2,
+   "versi": 3,
    "mb": 15.9,
-   "sidik": "236eccb705a421e4"
+   "sidik": "a6e3abeb9aa323b5"
   },
   {
    "kunci": "للهمبركلنفيهوزدنمنه",
