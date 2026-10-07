@@ -371,9 +371,9 @@
    "judul": "Doa Masuk Masjid",
    "varian": "A",
    "detik": 35,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v4/10-masuk-masjid_v4.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v4/10-masuk-masjid_v4_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v4/10-masuk-masjid_v4.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v5/10-masuk-masjid_v5.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v5/10-masuk-masjid_v5_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-10-masuk-masjid_v5/10-masuk-masjid_v5.jpg",
    "judul_saran": "Anak masuk masjid, langsung lari-lari? 🕌 Ajarkan kalimat dari Nabi ini (HR. Muslim no. 713)",
    "tagar": [
     "#doamasukmasjid",
@@ -382,9 +382,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 4,
-   "mb": 9.1,
-   "sidik": "ab19c568aa654209"
+   "versi": 5,
+   "mb": 8.8,
+   "sidik": "4a6259433710608d"
   },
   {
    "kunci": "بسمللهولجنوبسمللهخرجنوعليربنتوكلن",
@@ -545,24 +545,21 @@
    "kunci": "مطرنبفضلللهورحمته",
    "judul": "Doa Setelah Turun Hujan",
    "varian": "A",
-   "detik": 64,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v1/16-setelah-hujan_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v1/16-setelah-hujan_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v1/16-setelah-hujan_v1.jpg",
-   "judul_saran": "Hujan reda langsung ciprat-cipratan? 🌦️ Ada kalimat syukur sesudah hujan (HR. Bukhari no. 846, Muslim no. 71)",
+   "detik": 40,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v2/16-setelah-hujan_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v2/16-setelah-hujan_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-16-setelah-hujan_v2/16-setelah-hujan_v2.jpg",
+   "judul_saran": "Hujan reda, anak langsung ciprat-cipratan? 💦 Ajarkan kalimat syukur dari Nabi ini (HR. Bukhari no. 846, Muslim no. 71)",
    "tagar": [
-    "#doaharian",
-    "#kisahdoa",
     "#doasetelahhujan",
+    "#doaanak",
     "#syukur",
-    "#anakmuslim",
-    "#animasi",
-    "#edukasiislam",
+    "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 1,
-   "mb": 16.0,
-   "sidik": "8a5c8efab5920dee"
+   "versi": 2,
+   "mb": 10.5,
+   "sidik": "4fa259d53e0c63b4"
   }
  ]
 }
