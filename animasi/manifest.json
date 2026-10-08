@@ -110,9 +110,9 @@
    "judul": "Doa Keluar Kamar Mandi/WC",
    "varian": "A",
    "detik": 40,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v4/15-keluar-kamar-mandi_v4.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v4/15-keluar-kamar-mandi_v4_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v4/15-keluar-kamar-mandi_v4.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v5/15-keluar-kamar-mandi_v5.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v5/15-keluar-kamar-mandi_v5_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-15-keluar-kamar-mandi_v5/15-keluar-kamar-mandi_v5.jpg",
    "judul_saran": "Anak keluar kamar mandi, langsung lari main? 🚪 Cuma satu kata dari Nabi ini, maknanya indah (HR. Abu Dawud no. 30)",
    "tagar": [
     "#doakeluarkamarmandi",
@@ -121,9 +121,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 4,
+   "versi": 5,
    "mb": 8.9,
-   "sidik": "429aa995ec0437ee"
+   "sidik": "4d62db496e2bac7b"
   },
   {
    "kunci": "للهمنيسلكمنفضلك",
@@ -250,9 +250,9 @@
    "judul": "Doa Ketika Hujan Lebat, Atau Agar Hujan Berhenti",
    "varian": "A",
    "detik": 40,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v2/25-hujan-lebat_v2.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v2/25-hujan-lebat_v2_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v2/25-hujan-lebat_v2.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v3/25-hujan-lebat_v3.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v3/25-hujan-lebat_v3_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-25-hujan-lebat_v3/25-hujan-lebat_v3.jpg",
    "judul_saran": "Hujan deras tak berhenti, anak cuma bisa cemas? ⛈️ Nabi mengajarkan kalimat saat hujan terlalu lebat (HR. al-Bukhari 1015)",
    "tagar": [
     "#doahujanlebat",
@@ -261,9 +261,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 2,
+   "versi": 3,
    "mb": 18.4,
-   "sidik": "412a3fbb437c9856"
+   "sidik": "fff55e2f3c3b6398"
   },
   {
    "kunci": "عوذبللهمنلشيطنلرجيم",
@@ -392,24 +392,21 @@
    "kunci": "لسلمعلينوعليعبدللهلصلحين",
    "judul": "Doa Masuk Rumah Ketika Tidak Ada Orang",
    "varian": "A",
-   "detik": 76,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v1/26-rumah-kosong_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v1/26-rumah-kosong_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v1/26-rumah-kosong_v1.jpg",
-   "judul_saran": "Rumah kosong, langsung masuk diam-diam? 🏠 Rumah kosong pun ada salamnya (atsar Ibnu Umar, Adabul Mufrod 806/1055)",
+   "detik": 43,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v2/26-rumah-kosong_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v2/26-rumah-kosong_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-26-rumah-kosong_v2/26-rumah-kosong_v2.jpg",
+   "judul_saran": "Rumah kosong, anak langsung masuk diam-diam? 🏠 Rumah kosong pun ada salamnya (atsar Ibnu Umar, Adabul Mufrod 806/1055)",
    "tagar": [
-    "#doaharian",
-    "#kisahdoa",
     "#salamrumahkosong",
     "#adabmasukrumah",
-    "#anakmuslim",
-    "#animasi",
-    "#edukasiislam",
+    "#doaanak",
+    "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 1,
-   "mb": 18.5,
-   "sidik": "bfb7267726ab97ce"
+   "versi": 2,
+   "mb": 11.3,
+   "sidik": "4db6877e7a3a8ffd"
   },
   {
    "kunci": "لبسطهورنشءلله",
