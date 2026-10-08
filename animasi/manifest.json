@@ -589,26 +589,6 @@
    "sidik": "9d87b089dd166a81"
   },
   {
-   "kunci": "بسملله",
-   "judul": "Doa Sebelum Makan",
-   "varian": "A",
-   "detik": 38,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v5/03-sebelum-makan_v5.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v5/03-sebelum-makan_v5_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v5/03-sebelum-makan_v5.jpg",
-   "judul_saran": "Anak lapar, langsung sikat makanan? 🍗 Ajarkan kalimat dari Nabi ini (HR. Abu Dawud no. 3767, Tirmidzi no. 1858)",
-   "tagar": [
-    "#doasebelummakan",
-    "#doaanak",
-    "#anakmuslim",
-    "#parentingislami",
-    "#dzikirharianku"
-   ],
-   "versi": 5,
-   "mb": 10.2,
-   "sidik": "785fe051d148a5fd"
-  },
-  {
    "kunci": "بسمكللهمموتوحي",
    "judul": "Doa Sebelum Tidur",
    "varian": "A",
@@ -630,6 +610,26 @@
    "versi": 2,
    "mb": 16.5,
    "sidik": "a2e91aea149d5785"
+  },
+  {
+   "kunci": "بسملله",
+   "judul": "Doa Sebelum Wudhu",
+   "varian": "A",
+   "detik": 32,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-36-sebelum-wudhu_v6/36-sebelum-wudhu_v6.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-36-sebelum-wudhu_v6/36-sebelum-wudhu_v6_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-36-sebelum-wudhu_v6/36-sebelum-wudhu_v6.jpg",
+   "judul_saran": "Wudhu buru-buru, lupa kata pertama? 💧 Ajarkan kalimat Nabi ini (HR. Abu Dawud 101)",
+   "tagar": [
+    "#doasebelumwudhu",
+    "#bismillah",
+    "#doaanak",
+    "#parentingislami",
+    "#dzikirharianku"
+   ],
+   "versi": 6,
+   "mb": 10.2,
+   "sidik": "a1ecbefacf294569"
   },
   {
    "kunci": "لحمدللهلذيطعمنيهذورزقنيهمنغيرحولمنيولقوة",
