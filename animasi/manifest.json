@@ -188,12 +188,13 @@
   },
   {
    "kunci": "للهمنيسلكمنفضلك",
+   "ep": "11-keluar-masjid",
    "judul": "Doa Keluar Masjid",
    "varian": "A",
    "detik": 38,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v4/11-keluar-masjid_v4.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v4/11-keluar-masjid_v4_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v4/11-keluar-masjid_v4.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v5/11-keluar-masjid_v5.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v5/11-keluar-masjid_v5_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-11-keluar-masjid_v5/11-keluar-masjid_v5.jpg",
    "judul_saran": "Anak selesai sholat, langsung kabur pulang? 🏃 Ajarkan kalimat dari Nabi ini (HR. Muslim no. 713)",
    "tagar": [
     "#doakeluarmasjid",
@@ -202,9 +203,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 4,
+   "versi": 5,
    "mb": 9.1,
-   "sidik": "ca068effc6b167cd"
+   "sidik": "29eeec3f31b2e108"
   },
   {
    "kunci": "بسمللهتوكلتعليللهولحولولقوةلبلله",
@@ -371,12 +372,13 @@
   },
   {
    "kunci": "عوذبللهمنلشيطنلرجيم",
+   "ep": "01-ketika-marah",
    "judul": "Doa Ketika Marah",
    "varian": "A",
    "detik": 44,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v6/01-ketika-marah_v6.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v6/01-ketika-marah_v6_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v6/01-ketika-marah_v6.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v7/01-ketika-marah_v7.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v7/01-ketika-marah_v7_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-01-ketika-marah_v7/01-ketika-marah_v7.jpg",
    "judul_saran": "Anak marah, langsung membentak? 😤 Ajarkan kalimat dari Nabi ini (HR. Bukhari no. 3282, Muslim no. 2610)",
    "tagar": [
     "#doaketikamarah",
@@ -385,9 +387,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 6,
+   "versi": 7,
    "mb": 12.7,
-   "sidik": "5b899ec395a1b9cf"
+   "sidik": "3eb2a1f534e79480"
   },
   {
    "kunci": "عوذبللهوقدرتهمنشرمجدوحذر",
@@ -474,12 +476,13 @@
   },
   {
    "kunci": "بسمللهولجنوبسمللهخرجنوعليربنتوكلن",
+   "ep": "07-masuk-rumah",
    "judul": "Doa Masuk Rumah",
    "varian": "A",
    "detik": 43,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v5/07-masuk-rumah_v5.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v5/07-masuk-rumah_v5_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v5/07-masuk-rumah_v5.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v6/07-masuk-rumah_v6.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v6/07-masuk-rumah_v6_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-07-masuk-rumah_v6/07-masuk-rumah_v6.jpg",
    "judul_saran": "Anak pulang, langsung nyelonong masuk? 🏠 Ajarkan kalimat dari Nabi ini (HR. Abu Dawud no. 5096)",
    "tagar": [
     "#doamasukrumah",
@@ -488,9 +491,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 5,
+   "versi": 6,
    "mb": 11.9,
-   "sidik": "5e415ccbaac38a82"
+   "sidik": "f91a82e494e3f399"
   },
   {
    "kunci": "لسلمعلينوعليعبدللهلصلحين",
