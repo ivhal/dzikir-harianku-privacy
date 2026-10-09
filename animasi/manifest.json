@@ -127,12 +127,13 @@
   },
   {
    "kunci": "للهملتؤخذنيبميقولونوغفرليمليعلمونوجعلنيخيرمميظنون",
+   "ep": "32-bila-dipuji",
    "judul": "Doa Bila Dipuji Orang",
    "varian": "A",
    "detik": 45,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v1/32-bila-dipuji_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v1/32-bila-dipuji_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v1/32-bila-dipuji_v1.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v2/32-bila-dipuji_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v2/32-bila-dipuji_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-32-bila-dipuji_v2/32-bila-dipuji_v2.jpg",
    "judul_saran": "Anak dipuji orang, harus jawab apa? 🙈 Ajarkan kalimat sahabat Nabi ini (HR. Al-Bukhari, Al-Adabul Mufrad 761)",
    "tagar": [
     "#doadipuji",
@@ -141,9 +142,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 1,
+   "versi": 2,
    "mb": 9.9,
-   "sidik": "ccfc456c65a740ed"
+   "sidik": "87319dc0c69137c5"
   },
   {
    "kunci": "للهملسهللمجعلتهسهلونتتجعللحزنذشئتسهل",
@@ -573,12 +574,13 @@
   },
   {
    "kunci": "للهملطيرلطيركولخيرلخيركوللهغيرك",
+   "ep": "34-firasat-sial",
    "judul": "Doa Menolak Firasat Buruk/Sial",
    "varian": "A",
    "detik": 38,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v1/34-firasat-sial_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v1/34-firasat-sial_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v1/34-firasat-sial_v1.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v2/34-firasat-sial_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v2/34-firasat-sial_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-34-firasat-sial_v2/34-firasat-sial_v2.jpg",
    "judul_saran": "Kejatuhan cicak, anak takut sial? 🦎 Ajarkan kalimat Nabi ini (HR. Ahmad, Ash-Shahihah 1065)",
    "tagar": [
     "#doatolaksial",
@@ -587,9 +589,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 1,
+   "versi": 2,
    "mb": 8.8,
-   "sidik": "dc143057209fdc48"
+   "sidik": "a6436c91d910728f"
   },
   {
    "kunci": "للهمبركلنفيهوزدنمنه",
@@ -631,6 +633,27 @@
    "versi": 1,
    "mb": 8.0,
    "sidik": "1b6b1d4a706cd929"
+  },
+  {
+   "kunci": "ستودعللهدينكومنتكوخوتيمعملك",
+   "ep": "41-melepas-ayah",
+   "judul": "Doa Orang Mukim Kepada Musafir",
+   "varian": "A",
+   "detik": 37,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-41-melepas-ayah_v1/41-melepas-ayah_v1.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-41-melepas-ayah_v1/41-melepas-ayah_v1_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-41-melepas-ayah_v1/41-melepas-ayah_v1.jpg",
+   "judul_saran": "Ayah mau pergi, anak cuma minta oleh-oleh? 🧳 Ajarkan kalimat Nabi ini (HR. At-Tirmidzi)",
+   "tagar": [
+    "#doamusafir",
+    "#doauntukayah",
+    "#doaanak",
+    "#parentingislami",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 8.8,
+   "sidik": "3d960c1485094f42"
   },
   {
    "kunci": "سبحنكللهموبحمدكشهدنللهلنتستغفركوتوبليك",
