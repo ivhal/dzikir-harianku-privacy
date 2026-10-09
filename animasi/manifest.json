@@ -8,9 +8,9 @@
    "judul": "Bila Lupa Membaca Doa Sebelum Makan",
    "varian": "A",
    "detik": 41,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v4/18-lupa-bismillah_v4.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v4/18-lupa-bismillah_v4_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v4/18-lupa-bismillah_v4.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v5/18-lupa-bismillah_v5.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v5/18-lupa-bismillah_v5_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-18-lupa-bismillah_v5/18-lupa-bismillah_v5.jpg",
    "judul_saran": "Sudah makan setengah piring, baru ingat belum bismillah? 😱 Ini kalimat penggantinya (HR. Abu Daud no. 3767, Tirmidzi no. 1858)",
    "tagar": [
     "#lupabismillah",
@@ -19,9 +19,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 4,
-   "mb": 10.2,
-   "sidik": "3b0743b96d58ed98"
+   "versi": 5,
+   "mb": 9.9,
+   "sidik": "e3dc2cb1c7e2b449"
   },
   {
    "kunci": "لحمدللهلذيحينبعدممتنوليهلنشور",
@@ -901,9 +901,9 @@
    "judul": "Doa Sebelum Makan",
    "varian": "A",
    "detik": 38,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v8/03-sebelum-makan_v8.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v8/03-sebelum-makan_v8_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v8/03-sebelum-makan_v8.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v9/03-sebelum-makan_v9.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v9/03-sebelum-makan_v9_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-03-sebelum-makan_v9/03-sebelum-makan_v9.jpg",
    "judul_saran": "Anak lapar, langsung sikat makanan? 🍗 Ajarkan kalimat dari Nabi ini (HR. Abu Dawud no. 3767, Tirmidzi no. 1858)",
    "tagar": [
     "#doasebelummakan",
@@ -912,9 +912,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 8,
+   "versi": 9,
    "mb": 10.2,
-   "sidik": "785fe051d148a5fd"
+   "sidik": "8f3c88507f150ec9"
   }
  ]
 }
