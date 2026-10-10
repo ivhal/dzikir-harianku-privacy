@@ -1259,9 +1259,9 @@
    "judul": "Doa ketika menyisir rambut",
    "varian": "A",
    "detik": 34,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v1/66-rambut-bandel_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v1/66-rambut-bandel_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v1/66-rambut-bandel_v1.jpg",
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v2/66-rambut-bandel_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v2/66-rambut-bandel_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-66-rambut-bandel_v2/66-rambut-bandel_v2.jpg",
    "judul_saran": "Rambut anak susah rapi? 😆 Ajarkan bacaan ini saat menyisir: semoga rambut & kulit terjaga dari api neraka",
    "tagar": [
     "#doaanak",
@@ -1270,9 +1270,9 @@
     "#parentingislami",
     "#dzikirharianku"
    ],
-   "versi": 1,
+   "versi": 2,
    "mb": 7.6,
-   "sidik": "52a6d1d6893ba118"
+   "sidik": "26b10d4c3ff06115"
   },
   {
    "kunci": "للهمسقنغيثمغيثمريئمريعنفعغيرضرعجلغيرجل",
@@ -1294,6 +1294,27 @@
    "versi": 1,
    "mb": 10.6,
    "sidik": "d96bab44b1e64f65"
+  },
+  {
+   "kunci": "للهمنيستودعكمعلمتنيهفرددهليعندحجتيولتنسنيهيربلعلمين",
+   "ep": "68-angka-kabur",
+   "judul": "Doa sesudah belajar",
+   "varian": "A",
+   "detik": 37,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-68-angka-kabur_v1/68-angka-kabur_v1.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-68-angka-kabur_v1/68-angka-kabur_v1_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-68-angka-kabur_v1/68-angka-kabur_v1.jpg",
+   "judul_saran": "Anak habis belajar, besok lupa? 😵 Ajarkan bacaan sesudah belajar ini: menitipkan ilmu kepada Allah",
+   "tagar": [
+    "#doaanak",
+    "#doabelajar",
+    "#anaksekolah",
+    "#parentingislami",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 8.4,
+   "sidik": "f288e5a943256308"
   },
   {
    "kunci": "حبكلذيحببتنيله",
