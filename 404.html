@@ -8,7 +8,7 @@
 <script>
 (function () {
   var p = location.pathname.toLowerCase(), dasar = '/dzikir-harianku-privacy/unduh', tujuan = dasar + '/vvgjbkycu0l8/';
-  if ((p === dasar || p.indexOf(dasar + '/') === 0) && p !== tujuan) location.replace(tujuan);
+  if ((p === dasar || p.indexOf(dasar + '/') === 0) && location.pathname !== tujuan) location.replace(tujuan);   // huruf besar ('/Unduh/') ikut dialihkan
 })();
 </script>
 <style>
