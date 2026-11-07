@@ -1932,24 +1932,24 @@
   },
   {
    "kunci": "ربنغفرلنولخوننلذينسبقونبليمنولتجعلفيقلوبنغلللذينمنوربننكرءوفرحيم",
-   "ep": "119-kalah-balapan",
+   "ep": "195-hening-ketawa",
    "judul": "Doa Memohon Ampunan untuk Diri dan Sesama Mukmin",
    "varian": "A",
-   "detik": 43,
-   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1.mp4",
-   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1_pratinjau.mp4",
-   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1.jpg",
-   "judul_saran": "Kalah balapan, kok malah marah? 🏃 Ajarkan doa Al-Qur'an agar hati bersih dari dengki pada saudara (QS. Al-Hasyr : 10) — Rabbanaghfir lanaa wa li-ikhwaaninaa. Kirim ke ayah-bunda yang anaknya susah terima kalah! 😅",
+   "detik": 40,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-195-hening-ketawa_v2/195-hening-ketawa_v2.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-195-hening-ketawa_v2/195-hening-ketawa_v2_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-195-hening-ketawa_v2/195-hening-ketawa_v2.jpg",
+   "judul_saran": "Mengheningkan cipta, kok malah KETAWA? 🇮🇩 Doa untuk saudara seiman yang mendahului (QS. Al-Hasyr: 10): \"Rabbanaghfir lanaa wa li-ikhwaaninalladziina sabaquunaa bil iimaan, wa laa taj'al fii quluubinaa ghillan lilladziina aamanuu rabbanaa innaka ra-uufun rahiim\" — hening mengenang pahlawan = waktu mendoakan semua orang beriman. Siapa yang dulu pernah ketawa pas upacara? Semoga bermanfaat untuk keluarga 🤍",
    "tagar": [
-    "#doaanak",
-    "#hatibersih",
-    "#kakakadik",
+    "#haripahlawan",
+    "#upacara",
     "#parentingislami",
+    "#doakeluarga",
     "#dzikirharianku"
    ],
-   "versi": 1,
-   "mb": 10.0,
-   "sidik": "65856d66c349deda"
+   "versi": 2,
+   "mb": 7.6,
+   "sidik": "dd437c841a4ebf11"
   },
   {
    "kunci": "ربهبليمنلصلحين",
@@ -3818,6 +3818,27 @@
    "versi": 6,
    "mb": 9.1,
    "sidik": "0db5695aa7b3d561"
+  },
+  {
+   "kunci": "ربنغفرلنولخوننلذينسبقونبليمنولتجعلفيقلوبنغلللذينمنوربننكرءوفرحيم",
+   "ep": "119-kalah-balapan",
+   "judul": "Doa Memohon Ampunan untuk Diri dan Sesama Mukmin",
+   "varian": "A",
+   "detik": 43,
+   "video": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1.mp4",
+   "pratinjau": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1_pratinjau.mp4",
+   "sampul": "https://github.com/ivhal/dzikir-harianku-privacy/releases/download/animasi-119-kalah-balapan_v1/119-kalah-balapan_v1.jpg",
+   "judul_saran": "Kalah balapan, kok malah marah? 🏃 Ajarkan doa Al-Qur'an agar hati bersih dari dengki pada saudara (QS. Al-Hasyr : 10) — Rabbanaghfir lanaa wa li-ikhwaaninaa. Kirim ke ayah-bunda yang anaknya susah terima kalah! 😅",
+   "tagar": [
+    "#doaanak",
+    "#hatibersih",
+    "#kakakadik",
+    "#parentingislami",
+    "#dzikirharianku"
+   ],
+   "versi": 1,
+   "mb": 10.0,
+   "sidik": "65856d66c349deda"
   },
   {
    "kunci": "للهمحسبنيحسبيسير",
